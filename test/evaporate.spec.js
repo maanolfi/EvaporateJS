@@ -6,7 +6,7 @@ import Evaporate from '../evaporate'
 
 chai.use(chaiSinon)
 
-// consts
+// consts - marco teste
 
 const baseConfig = {
   signerUrl: 'http://what.ever/sign',
